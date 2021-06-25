@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there! 👋
 Currently, I am:
 - Bridging computer science and biology. 🌉
 - Learning how perceptrons learn. 🧠
